@@ -1,0 +1,32 @@
+/* .btn {
+color: blue;
+background: aliceblue;
+border-color: aliceblue
+;} */
+.modal {
+    color: blue;
+    display: flex;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 100px;
+    border: 1px solid white;
+  }
+  
+  .close {
+    color: black;
+    float: right;
+    font-size: 5px;
+    font-weight: 10;
+    border-color: white;
+  }
+
+  
